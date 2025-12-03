@@ -1,0 +1,968 @@
+Uri: https://alture-template.webflow.io/
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\index.htm
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/blog-posts/balancing-elegance-and-raw-nature-in-brand-expression
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\blog-posts\balancing-elegance-and-raw-nature-in-brand-expression.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/blog-posts/nurturing-brands-through-intentional-design
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\blog-posts\nurturing-brands-through-intentional-design.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/blog-posts/the-power-of-restraint-in-visual-storytelling
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\blog-posts\the-power-of-restraint-in-visual-storytelling.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/blog/1
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\blog\1.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/blog/2
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\blog\2.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/blog/3
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\blog\3.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/contact/1
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\contact\1.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/contact/2
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\contact\2.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/contact/3
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\contact\3.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/legal/privacy-policy
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\legal\privacy-policy.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/legal/terms-of-use
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\legal\terms-of-use.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/studio
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\studio.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/template/changelog
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\template\changelog.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/template/instructions
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\template\instructions.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/template/licenses
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\template\licenses.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/template/style-guide
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\template\style-guide.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/work/bronx
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\work\bronx.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/work/carlo
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\work\carlo.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/work/nexora
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\work\nexora.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/works/1
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\works\1.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/works/2
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\works\2.html
+Content Type: text/html
+
+Uri: https://alture-template.webflow.io/works/3
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\works\3.html
+Content Type: text/html
+
+Uri: https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628298b20ae0236682d4b87f_Play-24.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6022af993a6b2191db3ed10c\628298b20ae0236682d4b87f_Play-24.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6022af993a6b2191db3ed10c/628299f8aa233b83918e24fd_Pause.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6022af993a6b2191db3ed10c\628299f8aa233b83918e24fd_Pause.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/64cd4e641b75fb146d5eb9e3/64cd4e641b75fb146d5eb9e9_60ecc03c2d295899651e1524_style-guide-img.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\64cd4e641b75fb146d5eb9e3\64cd4e641b75fb146d5eb9e9_60ecc03c2d295899651e1524_style-guide-img.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F684095d127c9ea85d4851940_new-12149178_1920_1080_24fps-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9684095d127c9ea85d4851940_new-12149178_1920_1080_24fps-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F684095d127c9ea85d4851940_new-12149178_1920_1080_24fps-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9684095d127c9ea85d4851940_new-12149178_1920_1080_24fps-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F684095d127c9ea85d4851940_new-12149178_1920_1080_24fps-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9684095d127c9ea85d4851940_new-12149178_1920_1080_24fps-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F6848bef61eb36a4a567098c4_Vibrant Abstract Artwork-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b96848bef61eb36a4a567098c4_Vibrant Abstract Artwork-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F6848bef61eb36a4a567098c4_Vibrant Abstract Artwork-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b96848bef61eb36a4a567098c4_Vibrant Abstract Artwork-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F6848bef61eb36a4a567098c4_Vibrant Abstract Artwork-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b96848bef61eb36a4a567098c4_Vibrant Abstract Artwork-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68657558ee786f1fd864d2e1_Abstract Celestial Art-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968657558ee786f1fd864d2e1_Abstract Celestial Art-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68657558ee786f1fd864d2e1_Abstract Celestial Art-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968657558ee786f1fd864d2e1_Abstract Celestial Art-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68657558ee786f1fd864d2e1_Abstract Celestial Art-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968657558ee786f1fd864d2e1_Abstract Celestial Art-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F686808e0e511c90c45dba686_object-1-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9686808e0e511c90c45dba686_object-1-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F686808e0e511c90c45dba686_object-1-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9686808e0e511c90c45dba686_object-1-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F686808e0e511c90c45dba686_object-1-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9686808e0e511c90c45dba686_object-1-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68680e003e0eb7f56a44d740_object-2-new-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968680e003e0eb7f56a44d740_object-2-new-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68680e003e0eb7f56a44d740_object-2-new-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968680e003e0eb7f56a44d740_object-2-new-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68680e003e0eb7f56a44d740_object-2-new-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968680e003e0eb7f56a44d740_object-2-new-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68681009c34a03321ee05ce6_object-4-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968681009c34a03321ee05ce6_object-4-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68681009c34a03321ee05ce6_object-4-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968681009c34a03321ee05ce6_object-4-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68681009c34a03321ee05ce6_object-4-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968681009c34a03321ee05ce6_object-4-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68707c59cc60b8b2d9e92a32_video-final-poster-00001.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968707c59cc60b8b2d9e92a32_video-final-poster-00001.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68707c59cc60b8b2d9e92a32_video-final-transcode.mp4
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968707c59cc60b8b2d9e92a32_video-final-transcode.mp4
+Content Type: video/mp4
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9%2F68707c59cc60b8b2d9e92a32_video-final-transcode.webm
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b968707c59cc60b8b2d9e92a32_video-final-transcode.webm
+Content Type: video/webm
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6840876d4d1ed0e8e2a33109_webflow-spacing-bg-final.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6840876d4d1ed0e8e2a33109_webflow-spacing-bg-final.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/684089e8aa49652cc95dee56_BDOGrotesk-VF.ttf
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\684089e8aa49652cc95dee56_BDOGrotesk-VF.ttf
+Content Type: font/ttf
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68408a5271e2c68f863aea5e_InterVariable.woff2
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68408a5271e2c68f863aea5e_InterVariable.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6840ad47034f7c5148f8b56b_bar-code-1.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6840ad47034f7c5148f8b56b_bar-code-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6840b13666fa914c0494597c_favicon.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6840b13666fa914c0494597c_favicon.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6840b139fdbc92d71e0b47c9_webclip.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6840b139fdbc92d71e0b47c9_webclip.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847081eb099ae2ebf41b839_Portrait of a Man (1)-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847081eb099ae2ebf41b839_Portrait of a Man (1).webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847081eb099ae2ebf41b839_Portrait of a Man (1).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68471099e731abf2b2a848de_logo-2.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68471099e731abf2b2a848de_logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847213bd9c24b95611dcf5d_RobotoMono-VariableFont_wght.woff2
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847213bd9c24b95611dcf5d_RobotoMono-VariableFont_wght.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6847494a49644635f62a1bc0_arrow-white-diagonal.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6847494a49644635f62a1bc0_arrow-white-diagonal.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68474e628bed528dd7a4be9e_close.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68474e628bed528dd7a4be9e_close.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68474f06add2ed267a218556_link-p-1080.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68474f06add2ed267a218556_link-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68474f06add2ed267a218556_link-p-500.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68474f06add2ed267a218556_link-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68474f06add2ed267a218556_link-p-800.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68474f06add2ed267a218556_link-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68474f06add2ed267a218556_link.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68474f06add2ed267a218556_link.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68483fd8df02d2a2a16059d2_logo-1.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68483fd8df02d2a2a16059d2_logo-1.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848402b2b7a4408294ff7c4_logo-2.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848402b2b7a4408294ff7c4_logo-2.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848403301c0b927354b0f45_logo-3.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848403301c0b927354b0f45_logo-3.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848403a5135f3b8335421d2_logo-4.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848403a5135f3b8335421d2_logo-4.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68484040114a88fbe9ea899b_logo-5.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68484040114a88fbe9ea899b_logo-5.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68484048be11ba231a546a2e_logo-6.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68484048be11ba231a546a2e_logo-6.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68484050852d017199f1ad66_logo-7.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68484050852d017199f1ad66_logo-7.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68484058d2638513af23d247_logo-8.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68484058d2638513af23d247_logo-8.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68486e551e81c973a52e348c_man-1.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68486e551e81c973a52e348c_man-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68486ea1b62e298a9c363bac_woman-1.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68486ea1b62e298a9c363bac_woman-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/684870bdbf79a58ae417cf69_woman-2.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\684870bdbf79a58ae417cf69_woman-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/684870cb6b8e12c418d97a81_man-3.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\684870cb6b8e12c418d97a81_man-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/684871662c80e8b701890ee6_woman-3.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\684871662c80e8b701890ee6_woman-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/684871849d0c3565cf0f8eb0_man-2.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\684871849d0c3565cf0f8eb0_man-2.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848719db62e298a9c37c483_woman-4.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848719db62e298a9c37c483_woman-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/684888cf08fba2b302dfdb73_client.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\684888cf08fba2b302dfdb73_client.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848912294e85cf3c7cb571c_glass-1-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848912294e85cf3c7cb571c_glass-1-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848912294e85cf3c7cb571c_glass-1-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848912294e85cf3c7cb571c_glass-1-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848912294e85cf3c7cb571c_glass-1.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848912294e85cf3c7cb571c_glass-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c7b_Close-up of Person in Gray Puffer Jacket.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c7b_Close-up of Person in Gray Puffer Jacket.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c85_Close-Up Knitwear Duo.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c85_Close-Up Knitwear Duo.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c85_Close-Up%2520Knitwear%2520Duo-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c85_Close-Up%20Knitwear%20Duo-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c85_Close-Up%2520Knitwear%2520Duo-p-1600.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c85_Close-Up%20Knitwear%20Duo-p-1600.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c85_Close-Up%2520Knitwear%2520Duo-p-2000.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c85_Close-Up%20Knitwear%20Duo-p-2000.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c85_Close-Up%2520Knitwear%2520Duo-p-500.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c85_Close-Up%20Knitwear%20Duo-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848a64bfe0f783ef4780c85_Close-Up%2520Knitwear%2520Duo-p-800.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848a64bfe0f783ef4780c85_Close-Up%20Knitwear%20Duo-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848ab85cf257420c02231d5_close-white.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848ab85cf257420c02231d5_close-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848af0ebc3d819cc02a6749_website-p-500.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848af0ebc3d819cc02a6749_website-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848af0ebc3d819cc02a6749_website.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848af0ebc3d819cc02a6749_website.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848afd2cfd7de6c42102435_keyboard-p-500.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848afd2cfd7de6c42102435_keyboard-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848afd2cfd7de6c42102435_keyboard-p-800.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848afd2cfd7de6c42102435_keyboard-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848afd2cfd7de6c42102435_keyboard.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848afd2cfd7de6c42102435_keyboard.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6848c70609210c8d01d82882_logo-white.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6848c70609210c8d01d82882_logo-white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d6bd2d86ca0c4d42844bb_play-icon.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d6bd2d86ca0c4d42844bb_play-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire-p-1080.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire-p-1080.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire-p-500.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire-p-500.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire-p-800.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire-p-800.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire.jpeg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d7cd873015f0e3dd10afb_Elderly Man in Winter Attire.jpeg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d853e8a624d6b7c006e29_star.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d853e8a624d6b7c006e29_star.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d88bb5fcb8126c7165842_SCR-20250626-nelz-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d88bb5fcb8126c7165842_SCR-20250626-nelz-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685d88bb5fcb8126c7165842_SCR-20250626-nelz.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685d88bb5fcb8126c7165842_SCR-20250626-nelz.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel-p-1080.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel-p-1600.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel-p-1600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel-p-2000.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel-p-2000.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel-p-2600.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel-p-2600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel-p-500.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel-p-800.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/685eb0a110893c006586f6a6_showreel.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\685eb0a110893c006586f6a6_showreel.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862ca3a6170b276d41fb254_checkbox.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862ca3a6170b276d41fb254_checkbox.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862d9e3ecbe85f16e1d39a4_woman-final-p-1080.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862d9e3ecbe85f16e1d39a4_woman-final-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862d9e3ecbe85f16e1d39a4_woman-final-p-1600.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862d9e3ecbe85f16e1d39a4_woman-final-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862d9e3ecbe85f16e1d39a4_woman-final-p-2000.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862d9e3ecbe85f16e1d39a4_woman-final-p-2000.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862d9e3ecbe85f16e1d39a4_woman-final-p-500.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862d9e3ecbe85f16e1d39a4_woman-final-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862d9e3ecbe85f16e1d39a4_woman-final-p-800.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862d9e3ecbe85f16e1d39a4_woman-final-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6862d9e3ecbe85f16e1d39a4_woman-final.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6862d9e3ecbe85f16e1d39a4_woman-final.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68641f683476d979a209226a_Pixel 1_white.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68641f683476d979a209226a_Pixel 1_white.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6864243e37560ab3d4767c80_Smartwatch Close-Up (1).webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6864243e37560ab3d4767c80_Smartwatch Close-Up (1).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1)-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1)-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1)-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1)-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1)-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1)-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1).webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642449cf8bd0f76e9f111a_001_copy_3-1170x780 (1).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686424520220626a6c2b003b_Dynamic Motion Blur-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686424520220626a6c2b003b_Dynamic Motion Blur-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686424520220626a6c2b003b_Dynamic Motion Blur-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686424520220626a6c2b003b_Dynamic Motion Blur-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686424520220626a6c2b003b_Dynamic Motion Blur.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686424520220626a6c2b003b_Dynamic Motion Blur.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6864245b955d3280ee1379e6_Presentation_Hall_Mockup-1170x780.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6864245b955d3280ee1379e6_Presentation_Hall_Mockup-1170x780.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642466eab8727e10f58be5_Image002-1170x780.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642466eab8727e10f58be5_Image002-1170x780.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642b559d94bcc3773fc317_social-insta.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642b559d94bcc3773fc317_social-insta.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68642b569d94bcc3773fc318_social-x.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68642b569d94bcc3773fc318_social-x.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68645cb339a0d03e31142f00_mask-p-1080.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68645cb339a0d03e31142f00_mask-p-1080.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68645cb339a0d03e31142f00_mask-p-1600.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68645cb339a0d03e31142f00_mask-p-1600.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68645cb339a0d03e31142f00_mask-p-500.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68645cb339a0d03e31142f00_mask-p-500.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68645cb339a0d03e31142f00_mask-p-800.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68645cb339a0d03e31142f00_mask-p-800.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68645cb339a0d03e31142f00_mask.png
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68645cb339a0d03e31142f00_mask.png
+Content Type: image/png
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686464e5c7256ddd81c074ee_dribble.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686464e5c7256ddd81c074ee_dribble.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4d868cd0a577ebdcd44_Silver Handbag Display-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4d868cd0a577ebdcd44_Silver Handbag Display.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4d868cd0a577ebdcd44_Silver Handbag Display.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f4f6ce6a89d12afd1df2_Rainbow Light Portrait.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f56d8376ffb65990d95c_box-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f56d8376ffb65990d95c_box-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f56d8376ffb65990d95c_box-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f56d8376ffb65990d95c_box-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f56d8376ffb65990d95c_box-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f56d8376ffb65990d95c_box-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f56d8376ffb65990d95c_box-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f56d8376ffb65990d95c_box-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f56d8376ffb65990d95c_box-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f56d8376ffb65990d95c_box-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6866f56d8376ffb65990d95c_box.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6866f56d8376ffb65990d95c_box.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f0101aa6535c4bd55b4c_man-1.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f0101aa6535c4bd55b4c_man-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f18ca0131cbb6a7671fa_bg-2-p-1080.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f18ca0131cbb6a7671fa_bg-2-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f18ca0131cbb6a7671fa_bg-2-p-1600.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f18ca0131cbb6a7671fa_bg-2-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f18ca0131cbb6a7671fa_bg-2-p-500.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f18ca0131cbb6a7671fa_bg-2-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f18ca0131cbb6a7671fa_bg-2-p-800.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f18ca0131cbb6a7671fa_bg-2-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f18ca0131cbb6a7671fa_bg-2.jpg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f18ca0131cbb6a7671fa_bg-2.jpg
+Content Type: image/jpeg
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f2b94a5119c04158a51b_woman-1.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f2b94a5119c04158a51b_woman-1.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f3216b56fbc08d332b28_woman-4.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f3216b56fbc08d332b28_woman-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f34d66871d1a4c212b8f_man-3.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f34d66871d1a4c212b8f_man-3.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6867f4ccb26a6b00df1e577d_man-4.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6867f4ccb26a6b00df1e577d_man-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6868008ab4695533e641faca_woman-4.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6868008ab4695533e641faca_woman-4.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/6868022487452d2b1940b920_Mysterious Robed Assembly.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\6868022487452d2b1940b920_Mysterious Robed Assembly.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686802cf4ca7f65a8ee6725f_linkedin-svgrepo-com.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686802cf4ca7f65a8ee6725f_linkedin-svgrepo-com.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686c44619139d316b8c5b669_Elegant Woman Portrait.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686c44619139d316b8c5b669_Elegant Woman Portrait.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\686c44c58dbbc1c86b0c7571_Person on Phone with Green Cap.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/687074383a6b0f51d8fd13ff_link.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\687074383a6b0f51d8fd13ff_link.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68707d01d80dc61144ba7e85_Golden Adorned Person-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68707d01d80dc61144ba7e85_Golden Adorned Person-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68707d01d80dc61144ba7e85_Golden Adorned Person-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68707d01d80dc61144ba7e85_Golden Adorned Person-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68707d01d80dc61144ba7e85_Golden Adorned Person-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68707d01d80dc61144ba7e85_Golden Adorned Person-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68707d01d80dc61144ba7e85_Golden Adorned Person-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68707d01d80dc61144ba7e85_Golden Adorned Person-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68707d01d80dc61144ba7e85_Golden Adorned Person-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68707d01d80dc61144ba7e85_Golden Adorned Person-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68707d01d80dc61144ba7e85_Golden Adorned Person.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68707d01d80dc61144ba7e85_Golden Adorned Person.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/68753d68d02b49d028e5572d_image 143.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\68753d68d02b49d028e5572d_image 143.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/css/alture-template.webflow.shared.ef0833b7b.css
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\css\alture-template.webflow.shared.ef0833b7b.css
+Content Type: text/css
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.71cf1f9c.b9b1c61eb07f68de.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.71cf1f9c.b9b1c61eb07f68de.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.9c20edaf.ff943807303dd669.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.9c20edaf.ff943807303dd669.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.a63c01f1.79d7874c31d412c6.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.a63c01f1.79d7874c31d412c6.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.b3871076.9b383ceda6447c84.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.b3871076.9b383ceda6447c84.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.schunk.36b8fb49256177c8.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.schunk.36b8fb49256177c8.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.schunk.82f44582d86d1ea9.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.schunk.82f44582d86d1ea9.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.schunk.9dfb96661114d3db.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.schunk.9dfb96661114d3db.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/6840876d4d1ed0e8e2a330b9/js/webflow.schunk.d61b41edd968cc6d.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\6840876d4d1ed0e8e2a330b9\js\webflow.schunk.d61b41edd968cc6d.js
+Content Type: text/javascript
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684848090da5d4141867355b_man-1-final-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684848090da5d4141867355b_man-1-final-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684848090da5d4141867355b_man-1-final-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684848090da5d4141867355b_man-1-final-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684848090da5d4141867355b_man-1-final-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684848090da5d4141867355b_man-1-final-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684848090da5d4141867355b_man-1-final-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684848090da5d4141867355b_man-1-final-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684848090da5d4141867355b_man-1-final-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684848090da5d4141867355b_man-1-final-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684848090da5d4141867355b_man-1-final.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684848090da5d4141867355b_man-1-final.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68484dda7fed2cd1d39a2ec8_Golden Adorned Person-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68484dda7fed2cd1d39a2ec8_Golden Adorned Person.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68484dda7fed2cd1d39a2ec8_Golden Adorned Person.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684852292b8c525af2aede64_Dynamic Motion Blur-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684852292b8c525af2aede64_Dynamic Motion Blur-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684852292b8c525af2aede64_Dynamic Motion Blur-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684852292b8c525af2aede64_Dynamic Motion Blur-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684852292b8c525af2aede64_Dynamic Motion Blur-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684852292b8c525af2aede64_Dynamic Motion Blur-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684852292b8c525af2aede64_Dynamic Motion Blur-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684852292b8c525af2aede64_Dynamic Motion Blur-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684852292b8c525af2aede64_Dynamic Motion Blur-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684852292b8c525af2aede64_Dynamic Motion Blur-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/684852292b8c525af2aede64_Dynamic Motion Blur.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\684852292b8c525af2aede64_Dynamic Motion Blur.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68640848294cadfcbc56e86f_Man in Wildflower Field-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68640848294cadfcbc56e86f_Man in Wildflower Field-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68640848294cadfcbc56e86f_Man in Wildflower Field-p-1600.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68640848294cadfcbc56e86f_Man in Wildflower Field-p-1600.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68640848294cadfcbc56e86f_Man in Wildflower Field-p-2000.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68640848294cadfcbc56e86f_Man in Wildflower Field-p-2000.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68640848294cadfcbc56e86f_Man in Wildflower Field-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68640848294cadfcbc56e86f_Man in Wildflower Field-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68640848294cadfcbc56e86f_Man in Wildflower Field-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68640848294cadfcbc56e86f_Man in Wildflower Field-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/68640848294cadfcbc56e86f_Man in Wildflower Field.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\68640848294cadfcbc56e86f_Man in Wildflower Field.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408ab0d66788e31243ab5_saddas-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408ab0d66788e31243ab5_saddas-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408ab0d66788e31243ab5_saddas-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408ab0d66788e31243ab5_saddas-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408ab0d66788e31243ab5_saddas-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408ab0d66788e31243ab5_saddas-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408ab0d66788e31243ab5_saddas.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408ab0d66788e31243ab5_saddas.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408d33b4ea56266316f1b_dsadas-p-1080.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408d33b4ea56266316f1b_dsadas-p-1080.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408d33b4ea56266316f1b_dsadas-p-500.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408d33b4ea56266316f1b_dsadas-p-500.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408d33b4ea56266316f1b_dsadas-p-800.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408d33b4ea56266316f1b_dsadas-p-800.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686408d33b4ea56266316f1b_dsadas.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686408d33b4ea56266316f1b_dsadas.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea05934b17da793b2ea21_Joggers in Motion (1).webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea05934b17da793b2ea21_Joggers in Motion (1).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea081685ecda5a2a76ac9_Running in Motion.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea081685ecda5a2a76ac9_Running in Motion.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea11e85a4effd8b748f58_Runners Close-Up.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea11e85a4effd8b748f58_Runners Close-Up.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea1c98c8b7f686f86f131_Woman in Motion.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea1c98c8b7f686f86f131_Woman in Motion.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea3259183f6ad67c6266c_Stylish Graphic Tee Closeup.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea3259183f6ad67c6266c_Stylish Graphic Tee Closeup.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea3280622299ae22835ff_Elegant Jewelry Portrait.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea3280622299ae22835ff_Elegant Jewelry Portrait.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea32deba924b0dc8abe42_Close-Up Fashion Detail.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea32deba924b0dc8abe42_Close-Up Fashion Detail.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea330a5a2c3f69d9b75ba_Tattooed Neck and Hands (1).webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea330a5a2c3f69d9b75ba_Tattooed Neck and Hands (1).webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea623e6a69cc5cc038bec_Portrait with Gold Accents.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea623e6a69cc5cc038bec_Portrait with Gold Accents.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea6265f01f6c3c13602aa_Portrait with Red Glove.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea6265f01f6c3c13602aa_Portrait with Red Glove.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea658aefb916bb58ca067_Striking Portrait.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea658aefb916bb58ca067_Striking Portrait.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/684847f3b88d34cd4726e23a/686ea734184efa5954f685fc_Contemplative Portrait.webp
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\684847f3b88d34cd4726e23a\686ea734184efa5954f685fc_Contemplative Portrait.webp
+Content Type: image/webp
+
+Uri: https://cdn.prod.website-files.com/gsap/3.13.0/gsap.min.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\gsap\3.13.0\gsap.min.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6840876d4d1ed0e8e2a330b9
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/lenis@1.3.4/dist/lenis.css
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\lenis@1.3.4\dist\lenis.css
+Content Type: text/css
+
+Uri: https://unpkg.com/lenis@1.3.4/dist/lenis.min.js
+File Name: C:\Downloaded Web Sites\alture-template.webflow.io\lenis@1.3.4\dist\lenis.min.js
+Content Type: text/javascript
+
